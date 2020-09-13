@@ -20,13 +20,6 @@ Login with auth0 is currently disabled for presentations
 
 You should now get an error view saying that the database seems to be down.
 
-When running the app locally, no call to omnihub is possible. Comment out the following lines in routers/orders.js
-
-```JavaScript
-await updateOmni(postedOrder, false, accessToken[1]);
-await updateOmni(postedOrder, true, accessToken[1]);
-```
-
 ## Conenction to PostgresSQL
 1. Install postgres
 2. Create database, and paste in all from the pg_init.sql file found in root.
