@@ -1,0 +1,63 @@
+{
+  "chain_id": "10",
+  "store_id": "604",
+  "order_number": "BB-6WN-117482",
+  "customer": "Galadriel",
+  "phone": "+4746823125",
+  "file_name": "Order_30_2020-02-11-081939_BB-6WN-117482_Pri4_5246a4ad-c52d-4034-9874-17671572e26e",
+  "test_mode": 0,
+  "order_lines": [
+    {
+      "sku": "72497200002",
+      "name": "black dress sahara night",
+      "description": "black evening",
+
+      "quantity": 1,
+      "price": "149,50",
+      "offeredPrice": "139,50",
+      "currency": "NOK",
+      "productImageUrl": "www.placeholder.com",
+      "color": "black",
+      "size": "s"
+    },
+    {
+      "sku": "72497200001",
+      "name": "black dress sahara night",
+      "description": "black evening",
+
+      "quantity": 1,
+      "price": "149,50",
+      "offeredPrice": "139,50",
+      "currency": "NOK",
+      "productImageUrl": "www.placeholder.com",
+      "color": "black",
+      "size": "s"
+    },
+    {
+      "sku": "72502270009",
+      "name": "black dress sahara night",
+      "description": "black evening",
+
+      "quantity": 1,
+      "price": "149,50",
+      "offeredPrice": "139,50",
+      "currency": "NOK",
+      "productImageUrl": "www.placeholder.com",
+      "color": "black",
+      "size": "s"
+    },
+    {
+      "sku": "72456860002",
+      "name": "black dress sahara night",
+      "description": "black evening",
+
+      "quantity": 1,
+      "price": "149,50",
+      "offeredPrice": "139,50",
+      "currency": "NOK",
+      "productImageUrl": "www.placeholder.com",
+      "color": "black",
+      "size": "s"
+    }
+  ]
+}
